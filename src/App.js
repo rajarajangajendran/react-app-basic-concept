@@ -14,7 +14,7 @@ function App() {
     <h1>Hello hi raja</h1>
       <FunctionalComp />
       <ClassComp />
-      <Classprops name="This Props 1"/>
+      <Classprops name="This Props 1"> <p>Child Component</p> </Classprops>
       <Click />
       <Counter />
       <ParentComp />
